@@ -1,0 +1,14 @@
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\bin\Debug\net8.0\MonsterBash.exe
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\bin\Debug\net8.0\MonsterBash.deps.json
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\bin\Debug\net8.0\MonsterBash.runtimeconfig.json
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\bin\Debug\net8.0\MonsterBash.dll
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\bin\Debug\net8.0\MonsterBash.pdb
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\MonsterBash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\MonsterBash.AssemblyInfoInputs.cache
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\MonsterBash.AssemblyInfo.cs
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\MonsterBash.csproj.CoreCompileInputs.cache
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\MonsterBash.dll
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\refint\MonsterBash.dll
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\MonsterBash.pdb
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\MonsterBash.genruntimeconfig.cache
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\MonsterBash\obj\Debug\net8.0\ref\MonsterBash.dll
